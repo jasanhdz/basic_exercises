@@ -8,4 +8,4 @@
 
 ## Initial virtual enviroment
 
-- source /c/Users/JASAN/Documents/courses/python/servidor/venv/Scripts/activate
+- source /c/Users/JASAN/.../venv/Scripts/activate
